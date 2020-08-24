@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-sudeep basak (dip) one master
-=======
-sudeep basak (dip) one three
->>>>>>> three
-sudeep basak (dip) two
-baba mom
+This is nothing
